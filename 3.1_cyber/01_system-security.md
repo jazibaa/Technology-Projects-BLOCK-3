@@ -7,8 +7,8 @@ Run:
     cat /etc/passwd
 
 ### Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a7a8fbd-887e-4c69-8f2e-5e3f25a3e511" />
 
-(Add screenshot here)
 
 ### Questions
 
@@ -30,7 +30,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71dbd7bf-dd16-4b2a-9e91-421053cbb4ab" />
+
 
 ### Questions
 
@@ -52,7 +53,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d916f620-1a2b-4f27-bd0b-946345058e6e" />
+
 
 ### Questions
 
