@@ -53,7 +53,7 @@ Run:
 
 ### Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d916f620-1a2b-4f27-bd0b-946345058e6e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c5df367-f013-4d34-ad70-b87d86827ad7" />
 
 
 ### Questions
