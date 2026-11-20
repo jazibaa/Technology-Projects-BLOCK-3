@@ -9,7 +9,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1126" height="2000" alt="image" src="https://github.com/user-attachments/assets/b5a68c6c-715c-4eb5-95d2-ec353dedf6a9" />
+
 
 ### Questions
 
@@ -31,7 +32,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="321" alt="image" src="https://github.com/user-attachments/assets/b493c691-fb9c-4c8d-8e49-00172d9435f8" />
+
 
 ### Questions
 
@@ -49,8 +51,7 @@ Run:
     ls -l secret.txt
 
 ### Screenshot
-
-(Add screenshot here)
+<img width="1920" height="322" alt="image" src="https://github.com/user-attachments/assets/90c3d1ea-c843-4b43-ba6b-c708eb098eb4" />
 
 ### Questions
 
