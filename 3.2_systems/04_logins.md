@@ -32,3 +32,7 @@ last
 Include screenshots of:
 - authentication logs
 - failed login search results
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09aec18f-20df-4fb9-ac2c-66dc2783010d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aeae996f-cc8d-4ca9-a29e-19108e8f4d76" />
+
