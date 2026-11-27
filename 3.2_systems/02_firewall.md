@@ -40,7 +40,8 @@ Run:
 
 ### Screenshot
 
-<img width="1920" height="3413" alt="image" src="https://github.com/user-attachments/assets/210b1de8-2ac5-411d-9711-579836a27ae2" />
+<img width="1920" height="2019" alt="image" src="https://github.com/user-attachments/assets/44c00989-0972-410f-8265-1a8e3dfd878d" />
+
 
 
 ### Questions
