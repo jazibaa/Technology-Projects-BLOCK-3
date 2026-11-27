@@ -73,7 +73,12 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 ## Deliverables
 Include:
 - Screenshot of file permissions
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbf78639-f323-4fbc-8b3a-5f6b25701a16" />
+
 - Screenshot of hash results
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e37a589-a8cd-48a3-9557-3198070a17c4" />
+
 - Answers to questions
 - Reflection
     >Explain how this activity demonstrated the CIA triad.
